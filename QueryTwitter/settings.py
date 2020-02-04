@@ -25,7 +25,7 @@ SECRET_KEY = ')=2jsk!3z(!goe==c*kv0r#40no)*)t$b&$a!ddm=as(h8%dh2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['querytwitter.herokuapp.com']
 
 
 # Application definition
